@@ -1,33 +1,129 @@
-# 你好，我是田建隆 👋
-## 个人简介
-天津大学人工智能相关方向在读，专注两大研究方向：
-1. 大语言模型从零工程化实现（GPT2预训练、LoRA微调、SFT、RAG检索增强）
-2. GIS地理空间+深度学习融合：铁路多约束自动选线、地形代价路径规划
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red)
+![CUDA](https://img.shields.io/badge/CUDA-12.x-green)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![AI](https://img.shields.io/badge/Focus-LLM-purple)
+<h1 align="center">Hi 👋, I'm Jianlong Tian</h1>
 
-## 🛠 技术栈
-### 深度学习 & 大模型
-PyTorch | Transformer | LoRA微调 | RAG | Gradio可视化 | FlashAttention
-### 地理空间数据分析
-GeoPandas | Rasterio | OSMnx | 栅格高程处理 | 路径代价算法
-### 工具工程化
-Git | Python | 项目目录规范 | .gitignore工程配置
+<h3 align="center">
+AI Undergraduate @ Tianjin University (985)
+</h3>
 
-## 📂 核心开源项目
-### 1. Mini LLM (build-a-LLM-from-scratch)
-从零手写GPT2完整模型，完整覆盖：
-- 基础预训练流程
-- LoRA轻量化微调
-- SFT指令微调
-- 本地知识库RAG检索增强
-- Gradio网页演示Demo
-> 仓库地址：https://github.com/LONG2622/build-a-LLM-from-scratch
+<p align="center">
+Building Large Language Models from Scratch · Deep Learning · PyTorch
+</p>
 
-### 2. Railway铁路智能选线系统 (DeepLearning-program-railway-route)
-基于GIS栅格地形数据的铁路线路自动规划工具：
-- 高程、坡度地形约束代价图构建
-- 多候选线路生成算法
-- 线路综合指标评估模块
-> 仓库地址：https://github.com/LONG2622/DeepLearning-program-railway-route
+---
 
-## 📫 联系方式
-邮箱：3441928932@qq.com
+## 👨‍💻 About Me
+
+- 🎓 Undergraduate Student in **Artificial Intelligence** at **Tianjin University (985)**
+- 🤖 Interested in **Large Language Models (LLMs)** and **Deep Learning**
+- 🔥 Currently focusing on:
+  - GPT-2 from Scratch
+  - LoRA Fine-tuning
+  - SFT (Supervised Fine-Tuning)
+  - RAG (Retrieval-Augmented Generation)
+- 💻 Passionate about understanding AI systems from first principles rather than simply using high-level APIs.
+- 🌱 Currently learning **LLM Engineering**, **AI Agents**, and **Model Training**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Mini LLM From Scratch
+
+A complete GPT-2 implementation built from scratch with PyTorch.
+
+**Features**
+
+- GPT-2 (124M) implementation
+- Multi-Head Self Attention
+- Transformer Decoder
+- Text Generation
+- LoRA Fine-tuning
+- SFT
+- RAG
+- Gradio Demo
+
+🔗 Repository
+
+https://github.com/LONG2622/build-a-LLM-from-scratch
+
+---
+
+### 🚄 Deep Learning Railway Route Planning
+
+Deep learning based intelligent railway route planning system.
+
+Features include
+
+- Terrain Cost Modeling
+- Candidate Route Generation
+- Multi-factor Evaluation
+- Visualization
+- Team Collaboration
+
+🔗 Repository
+
+https://github.com/LONG2622/DeepLearning-program-railway-route
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- C++
+
+### Deep Learning
+
+- PyTorch
+- CUDA
+
+### LLM
+
+- Transformer
+- GPT-2
+- LoRA
+- SFT
+- RAG
+- FAISS
+- Sentence Transformers
+
+### Tools
+
+- Git
+- Linux
+- Gradio
+
+---
+
+## 📚 Currently Learning
+
+- LLM Training
+- RLHF
+- AI Agents
+- Model Deployment
+- Distributed Training
+
+---
+
+## 📫 Contact
+
+- Email: **3441928932@qq.com**
+- GitHub: **https://github.com/LONG2622**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my GitHub profile!
+
+</p>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LONG2622&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LONG2622&layout=compact)
